@@ -1,20 +1,12 @@
-## Hi there 👋
+## Read Me
 
 <!--
 **shriy-stars/shriy-stars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Current undergraduate working on near-field cosmology research, with an emphasis on using stellar streams to probe the small-scale structure of dark matter. Research in constraining theoretical dark matter models, particularly focusing on dark sub-haloes, as well as implementing a variety of stastical methods to simulate real observed data.
 
-- 🔭 I’m currently working on 
-    Astronomy research with Dr. Nora Shipp at the University of Washington
-- 🌱 I’m currently learning ...
-    Python!
-- 👯 I’m looking to collaborate on ...
-    Python!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+Reach out to collaborate or if you have any questions!
+
+How to reach me: 
     Email: shriyp@uw.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 -->
