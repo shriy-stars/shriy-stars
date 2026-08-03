@@ -9,7 +9,9 @@ Current undergraduate working on near-field cosmology research, with an emphasis
 
 I have previously written an analytical model to solve the inverse-tsunami wave problem, utilizing the NSWE and Boussinesq PDE systems https://arxiv.org/pdf/2510.14177. Interested in collaborating on more analytical research, particularly with PDE's for astrophysical applications!
 
-Reach out to collaborate or if you have any questions!
+Check out my website here: https://shriy-stars.github.io
+
+Don't hesitate to reach out to collaborate or if you have any questions!
 
 How to reach me: 
 Email: shriyp@uw.edu
