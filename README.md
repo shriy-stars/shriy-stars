@@ -5,7 +5,7 @@
 
 -->
 
-Current undergraduate working on near-field cosmology research, with an emphasis on using stellar streams to probe the small-scale structure of dark matter. Research in constraining theoretical dark matter models, particularly ΛCDM.
+Current undergraduate working on near-field cosmology research, with an emphasis on using stellar streams to probe the small-scale structure of dark matter. Research in constraining theoretical dark matter models, particularly CDM.
 
 I have previously written an analytical model to solve the inverse-tsunami wave problem, utilizing the NSWE and Boussinesq PDE systems https://arxiv.org/pdf/2510.14177. Interested in collaborating on more analytical research, particularly with PDE's for astrophysical applications!
 
